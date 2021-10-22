@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Magic-Todo/static/js/main.3a56071d.chunk.js",
+    "main.js.map": "/Magic-Todo/static/js/main.3a56071d.chunk.js.map",
+    "runtime-main.js": "/Magic-Todo/static/js/runtime-main.61bfd95e.js",
+    "runtime-main.js.map": "/Magic-Todo/static/js/runtime-main.61bfd95e.js.map",
+    "static/css/2.1bfd3a84.chunk.css": "/Magic-Todo/static/css/2.1bfd3a84.chunk.css",
+    "static/js/2.efd8c8f7.chunk.js": "/Magic-Todo/static/js/2.efd8c8f7.chunk.js",
+    "static/js/2.efd8c8f7.chunk.js.map": "/Magic-Todo/static/js/2.efd8c8f7.chunk.js.map",
+    "index.html": "/Magic-Todo/index.html",
+    "static/css/2.1bfd3a84.chunk.css.map": "/Magic-Todo/static/css/2.1bfd3a84.chunk.css.map",
+    "static/js/2.efd8c8f7.chunk.js.LICENSE.txt": "/Magic-Todo/static/js/2.efd8c8f7.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Magic-Todo/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61bfd95e.js",
+    "static/css/2.1bfd3a84.chunk.css",
+    "static/js/2.efd8c8f7.chunk.js",
+    "static/js/main.3a56071d.chunk.js"
+  ]
+}
