@@ -2,7 +2,7 @@
 
 這是一個 Todo 系統，註冊用戶可以查看、新增、編輯即刪除每日代辦事項。
 
-- [Demo](https://angelina524.github.io/Magic-Todo/#/todo)
+- [Demo](https://angelina524.github.io/Magic-Todo/#/)
 
 <img width="350" alt="首頁" src="https://i.imgur.com/7GYmgAS.png">
 
