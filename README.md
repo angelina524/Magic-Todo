@@ -4,14 +4,14 @@
 
 - [Demo](https://angelina524.github.io/Magic-Todo/#/todo)
 
-<img width="500" alt="首頁" src="https://i.imgur.com/7GYmgAS.png">
-<img width="500" alt="註冊" src="https://i.imgur.com/4XFbIe8.png">
-<img width="500" alt="登入" src="https://i.imgur.com/3Dw6iln.png">
-<img width="500" alt="新增" src="https://i.imgur.com/bL1vgMC.png">
-<img width="500" alt="編輯 / 刪除" src="https://i.imgur.com/SNJgoeK.png">
-<img width="500" alt="編輯" src="https://i.imgur.com/lshTCX1.png">
-<img width="500" alt="篩選全部 / 已完成 / 未完成" src="https://i.imgur.com/MmFaZYL.png">
-<img width="500" alt="篩選日期" src="https://i.imgur.com/GyZq3xc.png">
+<img width="450" alt="首頁" src="https://i.imgur.com/7GYmgAS.png">
+<img width="450" alt="註冊" src="https://i.imgur.com/4XFbIe8.png">
+<img width="450" alt="登入" src="https://i.imgur.com/3Dw6iln.png">
+<img width="450" alt="新增" src="https://i.imgur.com/bL1vgMC.png">
+<img width="450" alt="編輯 / 刪除" src="https://i.imgur.com/SNJgoeK.png">
+<img width="450" alt="編輯" src="https://i.imgur.com/lshTCX1.png">
+<img width="450" alt="篩選全部 / 已完成 / 未完成" src="https://i.imgur.com/MmFaZYL.png">
+<img width="450" alt="篩選日期" src="https://i.imgur.com/GyZq3xc.png">
 
 ## 功能
 - 註冊 / 登入功能
